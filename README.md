@@ -1,6 +1,7 @@
 # ecommerce_conversion_project_2025
 The final project in our Machine Learning course.
 
+Just started - this is due in 2 weeks
 
 # Assignment: Predict user conversion based on session data
 
