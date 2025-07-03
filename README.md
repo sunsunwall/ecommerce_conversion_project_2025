@@ -1,7 +1,10 @@
 # ecommerce_conversion_project_2025
 The final project in our Machine Learning course.
 
-Just started - this is due in 2 weeks
+The Project was completed in April 2025. I worked on it for about two weeks. The code has been written both by myself and by Claude Sonnest 3.7.
+By writing a training and eval strategy in markdown I could use claude to quickly build the outline of the pipeline. I then made some tweaks and iterations myself to finally land in the final product.
+
+It was a definitely a fun and challenging exercise.
 
 # Assignment: Predict user conversion based on session data
 
