@@ -6,6 +6,8 @@ By writing a training and eval strategy in markdown I could use claude to quickl
 
 It was a definitely a fun and challenging exercise.
 
+One key learning is that when building models that will be used in real time production environments - measure speed from the get go! In this case I measured latency per sample and created an F1-style weighted score combining recall/precision score with latency.
+
 # Assignment: Predict user conversion based on session data
 
 **Dataset:** Online Shoppers Purchasing Intention Dataset
